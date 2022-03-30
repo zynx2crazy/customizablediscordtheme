@@ -1,0 +1,25 @@
+/**
+ * @name put your name here
+ * @author put your tag here
+ * @version put version here
+ * @source put your source here
+ * @website put youre website here
+ * @donate put your donation link here
+ * @patreon put your patreon here
+ * @description put your description here
+ * @authorId put your id here
+*/
+
+@import url('PUT LINK HERE');
+
+/* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
+
+/* REMOVE THIS LINE TO UNCOMMENT
+
+:root {
+  --background: #000700 !important;
+  --text-color: #4AEF98 !important;
+  --highlight: var(--text-color) !important;
+}
+
+   REMOVE THIS LINE TO UNCOMMENT ASWELL */
